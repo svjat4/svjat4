@@ -1,19 +1,8 @@
-<pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠉⠉⠉⠉⠉⠉⠙⠲⡀⠀
-⠀⠀⠀⣴⠿⠏⠀⠀⠀⠀⠀ ⠀⢳⡀⠀ ⡏⠀⠀⠀⠀⠀        ⢷
-⠀⠀⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀⠀⠀⠀⠀         ⡇
-⠀⠀⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿⠀⣸⠀./punten_slur ⡇ 
-⠀⠀⣟⣿⡭⠀⠀⠀⠀⠀⢱⠀⠀⣿⠀⢹⠀⠀@lazyfay      ⡇
-⠀⠀⠙⢿⣯⠄⠀⠀⠀⢀⡀⠀⠀⡿⠀⠀⡇⠀⠀⠀⠀         ⡼
-⠀⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀⠀⠘⠤⣄⣠⣄⣠⣄⣠⣄⣠⣄⠞⠀
-⠀⠀⠀⠀⠀⢸⣷⡦⢤⡤⢤⣞⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀
-⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀
-⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀⠀⣄⢸⠀⠀⠀⠀⠀⠀
-⣿⣿⣧⣀⣿.........⣀⣰⣏⣘⣆⣀⠀⠀
+## Hey 👋, This is Svjat4
+[![Gmail Badge](https://img.shields.io/badge/-rifaiarsaa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rifaiarsaa@gmail.com)](mailto:rifaiarsaa@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-rifaiarsa-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rifaiarsa/)](https://www.linkedin.com/in/rifaiarsa/) [![Github Badge](https://img.shields.io/badge/-svjat4-grey?style=flat&logo=github&logoColor=white&link=https://github.com/svjat4/)](https://www.github.com/svjat4/) [![Twitter Badge](https://img.shields.io/badge/-RifaiArsandi-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/RifaiArsandi/)](https://www.twitter.com/RifaiArsandi/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://svjat4.github.io/portoweb//)](https://svjat4.github.io/portoweb//) <p align='left'>hello, introduce me to R. Rifai Arsandi. I am an IT enthusiast who is thirsty for knowledge, a little profile about me is that I am a software developer and big data activist and machine learning.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1eKnAkQYb1OG4l15QhG2Cij6-aRG-Ae3J/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=svjat4 alt=svjat4 /> </p>
 
-My Github is something I love.
-if you like it too please follow my github :)
-
-</pre>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=svjat4&show_icons=true&include_all_commits=true)](https://github.com/svjat4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svjat4&layout=compact)](https://github.com/svjat4/github-readme-stats)
