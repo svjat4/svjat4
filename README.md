@@ -21,7 +21,6 @@
 
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/93973382/206341704-e995295b-a0e8-4a0c-a854-114c099d3950.png" width="50" /)
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,py,django,tensorflow,sklearn,git,ae,pr,figma,wordpress&theme=light" />
    
