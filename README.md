@@ -1,8 +1,44 @@
-## Hey 👋, This is Svjat4
-[![Gmail Badge](https://img.shields.io/badge/-rifaiarsaa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rifaiarsaa@gmail.com)](mailto:rifaiarsaa@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-rifaiarsa-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rifaiarsa/)](https://www.linkedin.com/in/rifaiarsa/) [![Github Badge](https://img.shields.io/badge/-svjat4-grey?style=flat&logo=github&logoColor=white&link=https://github.com/svjat4/)](https://www.github.com/svjat4/) [![Twitter Badge](https://img.shields.io/badge/-RifaiArsandi-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/RifaiArsandi/)](https://www.twitter.com/RifaiArsandi/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://svjat4.github.io/portoweb//)](https://svjat4.github.io/portoweb//) <p align='left'>hello, introduce me to R. Rifai Arsandi. I am an IT enthusiast who is thirsty for knowledge, a little profile about me is that I am a software developer and big data activist and machine learning.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1XbOGIqZHPVq4jkAknxbz-_2RfTH1WvGO/view?usp=sharing' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=svjat4 alt=svjat4 /> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <div id="badges">
+  <a href="https://www.instagram.com/rrfaiarsa">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+     <a href="https://www.linkedin.com/in/rifaiarsa/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dukunin.my.id/">
+    <img src="https://img.shields.io/badge/Blogger-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
+  </a>
+</div>
+  
+  <img src="https://komarev.com/ghpvc/?username=novilmahdi&style=flat-square&color=blue" alt=""/>
+  
+</div>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=svjat4&show_icons=true&include_all_commits=true)](https://github.com/svjat4/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svjat4&layout=compact)](https://github.com/svjat4/github-readme-stats)
+---
+
+<p align="center">Tech Stack</p>
+
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/93973382/206341704-e995295b-a0e8-4a0c-a854-114c099d3950.png" width="50" /)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,mysql,jquery,json,python,machinelearning&theme=light" />
+   
+
+  </a>
+</p>
+
+### :woman_technologist: About Me :
+
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+
+- :telescope: I am a freelance backend developer to build websites.
+
+- :seedling: Sharpening Programming Logic.
+
+- :zap: In my spare time, I explore about my job and read technology articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-novil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/novil-nvl-2238a323b/)
