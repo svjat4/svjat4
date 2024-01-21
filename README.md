@@ -21,7 +21,6 @@
 
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/93973382/206341704-e995295b-a0e8-4a0c-a854-114c099d3950.png" width="50" /)
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,py,django,tensorflow,sklearn,git,ae,pr,figma,wordpress&theme=light" />
    
@@ -39,4 +38,4 @@ Bug Hunter, Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I dive deeper into my work and read books and research articles..
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-novil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rifaiarsa/")
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/rifaiarsa/")]
