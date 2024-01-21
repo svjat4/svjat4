@@ -13,8 +13,6 @@
   </a>
 </div>
   
-  <img src="https://komarev.com/ghpvc/?username=novilmahdi&style=flat-square&color=blue" alt=""/>
-  
 </div>
 
 ---
@@ -25,7 +23,7 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/93973382/206341704-e995295b-a0e8-4a0c-a854-114c099d3950.png" width="50" /)
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,mysql,jquery,json,python,machinelearning&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,py,django,tensorflow,sklearn,git,ae,pr,figma,wordpress&theme=light" />
    
 
   </a>
@@ -33,12 +31,12 @@
 
 ### :woman_technologist: About Me :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+Bug Hunter, Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from east java.
 
-- :telescope: I am a freelance backend developer to build websites.
+- :telescope: I am a freelance tech agency.
 
-- :seedling: Sharpening Programming Logic.
+- :seedling: Sharpening Machine Learning and Programming Logic.
 
-- :zap: In my spare time, I explore about my job and read technology articles.
+- :zap: In my free time, I dive deeper into my work and read books and research articles..
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-novil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/novil-nvl-2238a323b/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-novil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rifaiarsa/")
